@@ -12,7 +12,6 @@ const forecast = require('./Utils/forecast.js');
 const publicDir = path.join(__dirname, '../public');
 const viewsPath = path.join(__dirname, '../templates/views');
 const partialsPath = path.join(__dirname, '../templates/partials');
-console.log(path.join(__dirname, '../templates/partials'))
 
 
 
