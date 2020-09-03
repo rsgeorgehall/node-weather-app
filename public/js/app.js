@@ -1,14 +1,9 @@
 console.log('Client Side JS File is Loaded');
 
-
-
-
 const weatherForm = document.querySelector('form');
 const searchElement = document.querySelector('input');
 const message1 = document.querySelector('#message1');
 const message2 = document.querySelector('#message2');
-
-
 
 
 weatherForm.addEventListener('submit', (e) => {
